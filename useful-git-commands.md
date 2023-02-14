@@ -16,6 +16,7 @@
 - GitHub - online platform for git, GUI for sharing code and collaboration
 - commit - addinf a trackign number and message to your version
 - diff - the differnce between states of your local and GitHub repository
+- markdown (.md) - text-based, Markdown, is a simplified markup language. Compared to the popular HTML language, it is easier for humans to read.
 
 
 ### Git Process Notes
