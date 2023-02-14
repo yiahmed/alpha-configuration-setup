@@ -26,3 +26,5 @@
 - add code to the file
 - use git status to see where you are at in the process
 - add, commit, push code to GitHub
+
+### Why Branching Matters
